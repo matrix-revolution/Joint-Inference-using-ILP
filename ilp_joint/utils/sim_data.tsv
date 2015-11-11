@@ -1,0 +1,67 @@
+t1	t2	score
+"changing"	"changing"	1
+"changing"	"converting"	0.9
+"changing"	"turning"	0.8
+"changing"	"returning"	0.7
+"converting"	"converting"	1
+"converting"	"returning"	0.7
+"converting"	"turning"	0.8
+"returning"	"returning"	1
+"returning"	"turning"	0.8
+"turning"	"turning"	1
+"liquid water"	"liquid water"	1
+"liquid water"	"liquid"	0.9
+"liquid water"	"a liquid"	0.9
+"liquid"	"liquid"	1
+"liquid"	"a liquid"	1
+"a liquid"	"a liquid"	1
+"water vapor"	"water vapor"	1
+"water vapor"	"gas"	0.8
+"water vapor"	"damp"	0.6
+"water vapor"	"vapor"	0.8
+"gas"	"gas"	1
+"gas"	"damp"	0.6
+"gas"	"vapor"	0.7
+"damp"	"damp"	1
+"damp"	"vapor"	0.8
+"vapor"	"vapor"	1
+"changing"	"liquid water"	0.1
+"changing"	"liquid"	0.1
+"changing"	"a liquid"	0.1
+"changing"	"water vapor"	0.1
+"changing"	"gas"	0.1
+"changing"	"damp"	0.1
+"changing"	"vapor"	0.1
+"converting"	"liquid water"	0.1
+"converting"	"liquid"	0.1
+"converting"	"a liquid"	0.2
+"converting"	"water vapor"	0.2
+"converting"	"gas"	0.1
+"converting"	"damp"	0.1
+"converting"	"vapor"	0.1
+"returning"	"liquid water"	0.2
+"returning"	"liquid"	0.1
+"returning"	"a liquid"	0.2
+"returning"	"water vapor"	0.3
+"returning"	"gas"	0.3
+"returning"	"damp"	0.2
+"returning"	"vapor"	0.3
+"turning"	"liquid water"	0.1
+"turning"	"liquid"	0.1
+"turning"	"a liquid"	0.1
+"turning"	"water vapor"	0.3
+"turning"	"gas"	0.2
+"turning"	"damp"	0.1
+"turning"	"vapor"	0.2
+"liquid water"	"water vapor"	0.7
+"liquid water"	"gas"	0.4
+"liquid water"	"damp"	0.6
+"liquid water"	"vapor"	0.4
+"liquid"	"water vapor"	0.5
+"liquid"	"gas"	0.2
+"liquid"	"damp"	0.7
+"liquid"	"vapor"	0.4
+"a liquid"	"water vapor"	0.6
+"a liquid"	"gas"	0.3
+"a liquid"	"damp"	0.7
+"a liquid"	"vapor"	0.4
