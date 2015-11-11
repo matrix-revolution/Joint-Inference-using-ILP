@@ -3,6 +3,7 @@ Created on Wed Nov  4 20:40:52 2015
 
 @author: shalini
 """
+from gurobipy import *
 import cPickle as pickle
 import utils.role_scores as rs
 
