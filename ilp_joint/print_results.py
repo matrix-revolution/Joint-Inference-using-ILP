@@ -19,11 +19,11 @@ for d in data:
 
 
 for s, val in output_map.iteritems():
-	print "Sentence: ", sentences[s]
-	args = rs.sentence_to_args[s]
-	for a, aval in val.iteritems():
-		arg = args[a]
-		for r, i in aval.iteritems():
-			if i == 1:
-				print "\t", arg, " - ", roles[r]
-	print " "
+    print "Sentence: ", sentences[s]
+    args = rs.sentence_to_args[s]
+    for a, aval in val.iteritems():
+        arg = args[a]
+        for r, i in aval.iteritems():
+            if i == 1:
+                print "\t", arg, " - ", roles[r]
+    print " "
