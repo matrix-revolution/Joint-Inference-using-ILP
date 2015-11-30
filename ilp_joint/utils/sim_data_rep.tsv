@@ -1,0 +1,65 @@
+t1	t2	score
+reproducing	producing	1
+reproducing	creating	0.9
+reproducing	formation	0.9
+producing	creating	0.9
+producing	formation	0.9
+creating	formation	0.9
+creating	creating	0.9
+formation	formation	0.9
+one individual organism	just one parent	0.9
+one individual organism	single parent	0.9
+one individual organism	cells of a single parent	0.9
+just one parent	single parent	0.9
+just one parent	cells of a single parent	0.9
+single parent	cells of a single parent	0.9
+one or more new individuals	offspring	0.9
+one or more new individuals	individual	0.9
+one or more new individuals	new individual	0.9
+offspring	individual	0.9
+offspring	new individual	0.9
+offspring	offspring	0.9
+individual	new individual	0.9
+reproducing	one individual organism	0.2
+reproducing	one or more new individuals	0.2
+reproducing	offspring	0.2
+reproducing	just one parent	0.2
+reproducing	individual	0.2
+reproducing	single parent	0.2
+reproducing	new individual	0.2
+reproducing	cells of a single parent	0.1
+one or more new individuals	creating	0.3
+one or more new individuals	single parent	0.2
+one or more new individuals	just one parent	0.3
+one or more new individuals	cells of a single parent	0.3
+one or more new individuals	formation	0.2
+one individual organism	creating	0.3
+one individual organism	offspring	0.5
+one individual organism	formation	0.3
+one individual organism	individual	0.3
+one individual organism	new individual	0.2
+producing	offspring	0.2
+producing	just one parent	0.2
+producing	single parent	0.2
+producing	individual	0.2
+producing	new individual	0.3
+producing	cells of a single parent	0.2
+creating	offspring	0.3
+creating	just one parent	0.4
+creating	individual	0.2
+creating	single parent	0.3
+creating	new individual	0.2
+creating	cells of a single parent	0.2
+just one parent	formation	0.3
+just one parent	individual	0.4
+just one parent	new individual	0.2
+formation	new individual	0.4
+formation	cells of a single parent	0.2
+individual	formation	0.4
+individual	cells of a single parent	0.4
+single parent	formation	0.2
+single parent	new individual	0.4
+offspring	just one parent	0.4
+offspring	formation	0.2
+offspring	single parent	0.4
+offspring	cells of a single parent	0.2
