@@ -1,0 +1,519 @@
+[
+    {
+        "process": "physical change", 
+        "sentences": [
+            {
+                "text": "it is itself a psychical condition, for, unless the theory implies that the sensation of physical change is the cause of emotion, the phenomena of anaesthesia,...", 
+                "sentenceId": 373, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 12, 
+                        "rolePredicted": "undergoer", 
+                        "text": "theory", 
+                        "endIdx": 12, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.1718060181343264
+                            }, 
+                            {
+                                "enabler": 0.06420424864494423
+                            }, 
+                            {
+                                "trigger": 0.02263898122812158
+                            }, 
+                            {
+                                "result": 0.04755714692725166
+                            }, 
+                            {
+                                "underspecified": 0.03482564030060453
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "shedding", 
+        "sentences": [
+            {
+                "text": "regular shedding is the method by which your dog's coat releases damaged or unhealthy hair and allows for the new healthy coat to grow in.", 
+                "sentenceId": 173, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "trigger", 
+                        "text": "method", 
+                        "endIdx": 5, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.001749528348946594
+                            }, 
+                            {
+                                "enabler": 0.0855095344203558
+                            }, 
+                            {
+                                "trigger": 0.13115839924262992
+                            }, 
+                            {
+                                "result": 0.003944868921569866
+                            }, 
+                            {
+                                "underspecified": 0.001818763554853664
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "regeneration", 
+        "sentences": [
+            {
+                "text": "organ regeneration is the process of implanting or integrating man-made material into a human to replace natural organs or tissues.", 
+                "sentenceId": 652, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "trigger", 
+                        "text": "implanting", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.001665932386961555
+                            }, 
+                            {
+                                "enabler": 0.011357342586750141
+                            }, 
+                            {
+                                "trigger": 0.9558646594580803
+                            }, 
+                            {
+                                "result": 0.006328472023760634
+                            }, 
+                            {
+                                "underspecified": 0.007152124161090678
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "regeneration is the process of restoring cells, tissues and structures that are lost or damaged after disease, injury or aging.", 
+                "sentenceId": 301, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "trigger", 
+                        "text": "restoring", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.010542906967023646
+                            }, 
+                            {
+                                "enabler": 0.008395813026859877
+                            }, 
+                            {
+                                "trigger": 0.6944114178023395
+                            }, 
+                            {
+                                "result": 0.015900287067768026
+                            }, 
+                            {
+                                "underspecified": 0.015731686203087403
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "meiosis", 
+        "sentences": [
+            {
+                "text": "thus, meiosis helps to generate improved variety, and results incredible diversity of life on earth.", 
+                "sentenceId": 33, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "trigger", 
+                        "text": "generate improved variety", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.010730790899186049
+                            }, 
+                            {
+                                "enabler": 0.005683060539294127
+                            }, 
+                            {
+                                "trigger": 0.0185483422885652
+                            }, 
+                            {
+                                "result": 0.7515160601328597
+                            }, 
+                            {
+                                "underspecified": 0.007944446722491172
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "meiosis is the process of making gametes, also known as eggs and sperm in most animals.", 
+                "sentenceId": 533, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "result", 
+                        "text": "gametes", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.36901206029877287
+                            }, 
+                            {
+                                "enabler": 0.04291193773234181
+                            }, 
+                            {
+                                "trigger": 0.01679726929169955
+                            }, 
+                            {
+                                "result": 0.7068613932744996
+                            }, 
+                            {
+                                "underspecified": 0.03137135950321934
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "trigger", 
+                        "text": "making", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.010141527968917319
+                            }, 
+                            {
+                                "enabler": 0.011484517298616659
+                            }, 
+                            {
+                                "trigger": 0.5638350383615403
+                            }, 
+                            {
+                                "result": 0.00805696739660855
+                            }, 
+                            {
+                                "underspecified": 0.026134852646699125
+                            }
+                        ], 
+                        "argId": 1
+                    }
+                ]
+            }, 
+            {
+                "text": "thus meiosis helps to maintain the constant number of chromosomes for a particular species.", 
+                "sentenceId": 228, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 5, 
+                        "rolePredicted": "result", 
+                        "text": "maintain the constant number of chromosomes for a particular species", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.0031187603583650025
+                            }, 
+                            {
+                                "enabler": 0.008381791392352844
+                            }, 
+                            {
+                                "trigger": 0.0486873009484135
+                            }, 
+                            {
+                                "result": 0.6127851951499117
+                            }, 
+                            {
+                                "underspecified": 0.0052701809861442905
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }, 
+            {
+                "text": "the purpose of meiosis is to divide the genome in half, but first the dna is doubled in replication, just as mitosis.", 
+                "sentenceId": 203, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "result", 
+                        "text": "divide the genome in half", 
+                        "endIdx": 11, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.000795707955229874
+                            }, 
+                            {
+                                "enabler": 0.03132546402647107
+                            }, 
+                            {
+                                "trigger": 0.36799451711972964
+                            }, 
+                            {
+                                "result": 0.6646942705446868
+                            }, 
+                            {
+                                "underspecified": 0.002627635484239721
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }, 
+    {
+        "process": "respiration", 
+        "sentences": [
+            {
+                "text": "cellular respiration is the process of moving energy from one chemical form (glucose) into another (atp), since all cells use atp for all metabolic reactions.", 
+                "sentenceId": 130, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 7, 
+                        "rolePredicted": "trigger", 
+                        "text": "moving", 
+                        "endIdx": 7, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.003218453853149228
+                            }, 
+                            {
+                                "enabler": 0.009800072980977736
+                            }, 
+                            {
+                                "trigger": 0.9445058644402348
+                            }, 
+                            {
+                                "result": 0.00527721507263379
+                            }, 
+                            {
+                                "underspecified": 0.0067935277200471544
+                            }
+                        ], 
+                        "argId": 0
+                    }, 
+                    {
+                        "startIdx": 25, 
+                        "rolePredicted": "NONE", 
+                        "text": "use", 
+                        "endIdx": 25, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.0026322216238204854
+                            }, 
+                            {
+                                "enabler": 0.028834468840726935
+                            }, 
+                            {
+                                "trigger": 0.7391173867708198
+                            }, 
+                            {
+                                "result": 0.00436444645767442
+                            }, 
+                            {
+                                "underspecified": 0.0041759178825846455
+                            }
+                        ], 
+                        "argId": 4
+                    }, 
+                    {
+                        "startIdx": 17, 
+                        "rolePredicted": "enabler", 
+                        "text": "another -LRB- atp -RRB-", 
+                        "endIdx": 20, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.10787951576019517
+                            }, 
+                            {
+                                "enabler": 0.12918368641233824
+                            }, 
+                            {
+                                "trigger": 0.08134826157246117
+                            }, 
+                            {
+                                "result": 0.12933215566433975
+                            }, 
+                            {
+                                "underspecified": 0.08182576907973071
+                            }
+                        ], 
+                        "argId": 1
+                    }, 
+                    {
+                        "startIdx": 9, 
+                        "rolePredicted": "underspecified", 
+                        "text": "from one chemical form -LRB- glucose", 
+                        "endIdx": 14, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.016858871511297058
+                            }, 
+                            {
+                                "enabler": 0.07422098363149998
+                            }, 
+                            {
+                                "trigger": 0.04739874096375685
+                            }, 
+                            {
+                                "result": 0.0938802970789725
+                            }, 
+                            {
+                                "underspecified": 0.26845879483656243
+                            }
+                        ], 
+                        "argId": 2
+                    }, 
+                    {
+                        "startIdx": 8, 
+                        "rolePredicted": "undergoer", 
+                        "text": "energy", 
+                        "endIdx": 8, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.4218966633122093
+                            }, 
+                            {
+                                "enabler": 0.03210709293078462
+                            }, 
+                            {
+                                "trigger": 0.028520508645478927
+                            }, 
+                            {
+                                "result": 0.17709600672678338
+                            }, 
+                            {
+                                "underspecified": 0.026292532170278382
+                            }
+                        ], 
+                        "argId": 3
+                    }, 
+                    {
+                        "startIdx": 23, 
+                        "rolePredicted": "NONE", 
+                        "text": "all cells", 
+                        "endIdx": 24, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.3509369707103419
+                            }, 
+                            {
+                                "enabler": 0.0866249879321066
+                            }, 
+                            {
+                                "trigger": 0.004196743193738943
+                            }, 
+                            {
+                                "result": 0.01276725261842837
+                            }, 
+                            {
+                                "underspecified": 0.01662411375617623
+                            }
+                        ], 
+                        "argId": 5
+                    }, 
+                    {
+                        "startIdx": 28, 
+                        "rolePredicted": "result", 
+                        "text": "all metabolic reactions", 
+                        "endIdx": 30, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.0739345201627023
+                            }, 
+                            {
+                                "enabler": 0.11406106745139444
+                            }, 
+                            {
+                                "trigger": 0.01113570672889916
+                            }, 
+                            {
+                                "result": 0.16670082301565992
+                            }, 
+                            {
+                                "underspecified": 0.03348118898801733
+                            }
+                        ], 
+                        "argId": 6
+                    }, 
+                    {
+                        "startIdx": 19, 
+                        "rolePredicted": "NONE", 
+                        "text": "atp", 
+                        "endIdx": 19, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.10787951576019517
+                            }, 
+                            {
+                                "enabler": 0.12918368641233824
+                            }, 
+                            {
+                                "trigger": 0.08134826157246117
+                            }, 
+                            {
+                                "result": 0.12933215566433975
+                            }, 
+                            {
+                                "underspecified": 0.08182576907973071
+                            }
+                        ], 
+                        "argId": 7
+                    }
+                ]
+            }, 
+            {
+                "text": "respiration is the process of exchanging o2 with co2.", 
+                "sentenceId": 111, 
+                "predictionArgumentSpan": [
+                    {
+                        "startIdx": 6, 
+                        "rolePredicted": "trigger", 
+                        "text": "exchanging", 
+                        "endIdx": 6, 
+                        "probRoles": [
+                            {
+                                "undergoer": 0.002986512107605588
+                            }, 
+                            {
+                                "enabler": 0.01565961271439098
+                            }, 
+                            {
+                                "trigger": 0.7705009347685338
+                            }, 
+                            {
+                                "result": 0.0051667866467339785
+                            }, 
+                            {
+                                "underspecified": 0.00743558404838518
+                            }
+                        ], 
+                        "argId": 0
+                    }
+                ]
+            }
+        ]
+    }
+]

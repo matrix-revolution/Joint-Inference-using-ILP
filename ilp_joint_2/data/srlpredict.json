@@ -1,0 +1,3692 @@
+[
+  {
+    "process": "diffusion",
+    "sentences": [
+      {
+        "sentenceId": 50,
+        "text": "diffusion is the process of transferring matter from an area of high concentration to an area of low concentration under the influence of thermal energy.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "transferring",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.005270506480699946
+              },
+              {
+                "enabler": 0.005280674517611272
+              },
+              {
+                "underspecified": 0.003339551628452453
+              },
+              {
+                "undergoer": 6.639622171933368E-4
+              },
+              {
+                "trigger": 0.9507940011985674
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 6,
+            "endIdx": 25,
+            "text": "transferring matter from an area of high concentration to an area of low concentration under the influence of thermal energy",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.005270506480699946
+              },
+              {
+                "enabler": 0.005280674517611272
+              },
+              {
+                "underspecified": 0.003339551628452453
+              },
+              {
+                "undergoer": 6.639622171933368E-4
+              },
+              {
+                "trigger": 0.9507940011985674
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "meiosis",
+    "sentences": [
+      {
+        "sentenceId": 62,
+        "text": "meiosis is the process of separating the alleles and the random recombination is the fusion of two gametes during fertilization.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "separating",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.014260589954144696
+              },
+              {
+                "enabler": 0.007449841141269897
+              },
+              {
+                "underspecified": 0.03591571234813873
+              },
+              {
+                "undergoer": 0.0049156816966478
+              },
+              {
+                "trigger": 0.6295066522396912
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 97,
+        "text": "these are novel observations because the disregulation of meiosis is caused by a change in the somatic cells.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 13,
+            "endIdx": 18,
+            "text": "a change in the somatic cells",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.025204764192188235
+              },
+              {
+                "enabler": 0.8032863641060793
+              },
+              {
+                "underspecified": 0.09206185879302131
+              },
+              {
+                "undergoer": 0.017029800536311757
+              },
+              {
+                "trigger": 0.013256521851897629
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 112,
+        "text": "thus meiosis helps to maintain the constant number of chromosomes for a particular species.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 5,
+            "endIdx": 14,
+            "text": "maintain the constant number of chromosomes for a particular species",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.6679670684385309
+              },
+              {
+                "enabler": 0.003786847831663942
+              },
+              {
+                "underspecified": 0.028753071278372122
+              },
+              {
+                "undergoer": 0.0017512266946235755
+              },
+              {
+                "trigger": 0.03310259714373365
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "grafting",
+    "sentences": [
+      {
+        "sentenceId": 12,
+        "text": "grafting is the process of combining two plants into one to create a more...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "combining",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.004812947437364183
+              },
+              {
+                "enabler": 0.004340781140242056
+              },
+              {
+                "underspecified": 0.007395206479823946
+              },
+              {
+                "undergoer": 0.0031452860564952223
+              },
+              {
+                "trigger": 0.8955395904652879
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 76,
+        "text": "grafting is the art of cloning plants by taking a piece of tissue (usually a bud, or a twig with one or more buds)...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 4,
+            "endIdx": 4,
+            "text": "art",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.005745704113230789
+              },
+              {
+                "enabler": 0.23650212707714402
+              },
+              {
+                "underspecified": 0.004967985460152757
+              },
+              {
+                "undergoer": 2.288766826545885E-4
+              },
+              {
+                "trigger": 0.7872794562648264
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 102,
+        "text": "grafting is the process of connecting two different plants so they grow as one.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "connecting",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.011914795006359996
+              },
+              {
+                "enabler": 0.004765010404845671
+              },
+              {
+                "underspecified": 0.015136824627362322
+              },
+              {
+                "undergoer": 0.004786469653108472
+              },
+              {
+                "trigger": 0.8106792886875305
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "physical change",
+    "sentences": [
+      {
+        "sentenceId": 86,
+        "text": "it is itself a psychical condition, for, unless the theory implies that the sensation of physical change is the cause of emotion, the phenomena of anaesthesia,...",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 129,
+        "text": "physical change is the change in physical properties.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "decomposition",
+    "sentences": [
+      {
+        "sentenceId": 57,
+        "text": "decomposition is the process of dividing the work in smaller parts, where all or some of them could be executed in parallel.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "dividing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.021188903173262174
+              },
+              {
+                "enabler": 0.006001628728793285
+              },
+              {
+                "underspecified": 0.0053958817676628135
+              },
+              {
+                "undergoer": 0.004255792212134235
+              },
+              {
+                "trigger": 0.7643433840832389
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 58,
+        "text": "in the minerotrophic peat, decomposition causes strong decay of both polysaccharides and lignins.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 15,
+            "text": "strong decay of both polysaccharides and lignins .",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.865179144963118
+              },
+              {
+                "enabler": 0.15952962586702368
+              },
+              {
+                "underspecified": 0.0038618249892337086
+              },
+              {
+                "undergoer": 0.0036762725250669703
+              },
+              {
+                "trigger": 0.004618620804805684
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 99,
+        "text": "this decomposition causes a faster decay of.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 4,
+            "endIdx": 8,
+            "text": "a faster decay of .",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7866905771491339
+              },
+              {
+                "enabler": 0.08958893218634922
+              },
+              {
+                "underspecified": 0.03225375640861827
+              },
+              {
+                "undergoer": 0.0052346229725198645
+              },
+              {
+                "trigger": 0.006658157170317702
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "melting",
+    "sentences": [
+      {
+        "sentenceId": 2,
+        "text": "metal melting is the process of producing a liquid metal of the required composition at the required rate, and with the required amount of superheat while...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 7,
+            "text": "producing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.00495156035713866
+              },
+              {
+                "enabler": 0.005578656714656405
+              },
+              {
+                "underspecified": 0.0028625025361438405
+              },
+              {
+                "undergoer": 0.0015054557953956271
+              },
+              {
+                "trigger": 0.916321786646537
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 21,
+        "text": "trapolation is necessary for melting temperatures at greater depths.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 30,
+        "text": "melting is the process of converting a solid into a liquid.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "converting",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.0052388517564002195
+              },
+              {
+                "enabler": 0.005145189639275127
+              },
+              {
+                "underspecified": 0.0032987976803811048
+              },
+              {
+                "undergoer": 0.0075463529165552545
+              },
+              {
+                "trigger": 0.8345092894435533
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "nitrogen cycle",
+    "sentences": [
+      {
+        "sentenceId": 55,
+        "text": "nitrogen cycle is the transformation which is carried out via both biological and non-biological processes.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "asexual reproduction",
+    "sentences": [
+      {
+        "sentenceId": 8,
+        "text": "asexual reproduction is the primary form of reproduction for single-celled organisms such as the archaebacteria, eubacteria, and protists.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 39,
+        "text": "asexual reproduction is the rule, but many reproduce sexually during some part of their life cycle.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 84,
+        "text": "asexual reproduction is the formation of an individual from a single parent without the use of sex cells and does not undergo processes such as meoisis.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 5,
+            "endIdx": 5,
+            "text": "formation",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.009278312683210738
+              },
+              {
+                "enabler": 0.07684418948514082
+              },
+              {
+                "underspecified": 0.001226537169621178
+              },
+              {
+                "undergoer": 2.843616755725531E-4
+              },
+              {
+                "trigger": 0.9332090946864315
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "chemosynthesis",
+    "sentences": [
+      {
+        "sentenceId": 107,
+        "text": "chemosynthesis is the basis for the food web associated with deep-sea hydrothermal vents.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "acceleration",
+    "sentences": [
+      {
+        "sentenceId": 104,
+        "text": "acceleration is the killer, well usually.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "osmosis",
+    "sentences": [
+      {
+        "sentenceId": 18,
+        "text": "reverse osmosis is the process of separating a solution, water in this particular case, and forcing it through a semi-permeable membrane that filters out...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 7,
+            "text": "separating",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.011825232335238465
+              },
+              {
+                "enabler": 0.013855588058603097
+              },
+              {
+                "underspecified": 0.007056188330269664
+              },
+              {
+                "undergoer": 0.003604546029843836
+              },
+              {
+                "trigger": 0.9173442201272762
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 41,
+        "text": "formally, reverse osmosis is the process of forcing a solvent from a region of high solute concentration through a semi permeable membrane to a region of low...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 9,
+            "endIdx": 9,
+            "text": "forcing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.007683684571686194
+              },
+              {
+                "enabler": 0.010999848555963254
+              },
+              {
+                "underspecified": 0.004330242710281151
+              },
+              {
+                "undergoer": 8.478605233933623E-4
+              },
+              {
+                "trigger": 0.9405835886175434
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "transpiration",
+    "sentences": [
+      {
+        "sentenceId": 3,
+        "text": "evaporation and transpiration helps to remove water from the system.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "crossbreeding",
+    "sentences": [
+      {
+        "sentenceId": 13,
+        "text": "crossbreeding is the process of producing offspring from parents who originate from different species, varieties, or regional...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "producing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.006235357055940369
+              },
+              {
+                "enabler": 0.005805471953729935
+              },
+              {
+                "underspecified": 0.003098386169689382
+              },
+              {
+                "undergoer": 9.88095149461632E-4
+              },
+              {
+                "trigger": 0.9148572757072742
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 52,
+        "text": "in rabbit crossbreeding is the common breeding programme with specialised dam and sire lines similar to pigs.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "refraction",
+    "sentences": [
+      {
+        "sentenceId": 56,
+        "text": "wave refraction is caused by segments of the wave moving at different speeds as the water depth along the crest varies.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 20,
+            "text": "segments of the wave moving at different speeds as the water depth along the crest",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.04645172862738348
+              },
+              {
+                "enabler": 0.6190277653423439
+              },
+              {
+                "underspecified": 0.032347041783324926
+              },
+              {
+                "undergoer": 0.0056587758847684855
+              },
+              {
+                "trigger": 0.028146598675354628
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 61,
+        "text": "the simplest case of refraction occurs when there is an...",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 68,
+        "text": "well to the cases where the refraction is caused by bottom changes or by changes in both bottom and current.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 11,
+            "endIdx": 20,
+            "text": "bottom changes or by changes in both bottom and current",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.023598696108888356
+              },
+              {
+                "enabler": 0.5661407136548412
+              },
+              {
+                "underspecified": 0.025156470267621134
+              },
+              {
+                "undergoer": 0.00954738659090848
+              },
+              {
+                "trigger": 0.061276296151648424
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 109,
+        "text": "the variation in index of refraction occurs due to the change of...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 10,
+            "endIdx": 12,
+            "text": "the change of",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.030372212073298807
+              },
+              {
+                "enabler": 0.582030097263146
+              },
+              {
+                "underspecified": 0.1338248426565769
+              },
+              {
+                "undergoer": 0.004779443185523036
+              },
+              {
+                "trigger": 0.09014809685155856
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 8,
+            "endIdx": 12,
+            "text": "due to the change of",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.030372212073298807
+              },
+              {
+                "enabler": 0.582030097263146
+              },
+              {
+                "underspecified": 0.1338248426565769
+              },
+              {
+                "undergoer": 0.004779443185523036
+              },
+              {
+                "trigger": 0.09014809685155856
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 115,
+        "text": "within kouchibouguac bay further wave refraction is caused by two.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "photosynthesis",
+    "sentences": [
+      {
+        "sentenceId": 17,
+        "text": "photosynthesis occurs when photon flux densities exceed the compensation irradiance,i\".",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 23,
+        "text": "the purpose of photosynthesis is to harness light energy and use it to move electrons through an electron transport chain.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 82,
+        "text": "solar radiation in the par wavelength range is necessary for photosynthesis, which is the basic process for crop production.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 1,
+            "endIdx": 7,
+            "text": "solar radiation in the par wavelength range",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.05758836572891943
+              },
+              {
+                "enabler": 0.9585862884546947
+              },
+              {
+                "underspecified": 0.0037871549576138364
+              },
+              {
+                "undergoer": 0.010406772529525932
+              },
+              {
+                "trigger": 0.01288901243512175
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 105,
+        "text": "photosynthesis occurs when pigments in photosynthesizers absorb the energy of photons, initiating a chain of photochemical and chemical events.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 124,
+        "text": "the purpose of photosynthesis is to convert a non storable source of energy into a usable and storable form of energy.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 21,
+            "text": "convert a non storable source of energy into a usable and storable form of energy",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7308543563897602
+              },
+              {
+                "enabler": 0.014988809221313404
+              },
+              {
+                "underspecified": 0.0012989015661108994
+              },
+              {
+                "undergoer": 0.001389697343723184
+              },
+              {
+                "trigger": 0.5264763638482115
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 125,
+        "text": "the purpose of photosynthesis is to capture and store energy.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 10,
+            "text": "capture and store energy",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8825089127813405
+              },
+              {
+                "enabler": 0.035929916746040846
+              },
+              {
+                "underspecified": 0.006569307138832414
+              },
+              {
+                "undergoer": 0.010629932141045795
+              },
+              {
+                "trigger": 0.2588766523275061
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 132,
+        "text": "photosynthesis occurs when ribulose-1,5-bisphosphate is carboxylated by rubisco carboxylase activity and the products, two phosphoglycerate molecules...",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "conduction",
+    "sentences": [
+      {
+        "sentenceId": 123,
+        "text": "conduction is the process of losing heat through physical contact...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "losing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.004886180746334892
+              },
+              {
+                "enabler": 0.007751121582246445
+              },
+              {
+                "underspecified": 0.003365986294033063
+              },
+              {
+                "undergoer": 0.005143476742268005
+              },
+              {
+                "trigger": 0.9123683769413353
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "mimicry",
+    "sentences": [
+      {
+        "sentenceId": 9,
+        "text": "animal mimicry is the type of adaptation displayed by animals that closely resemble other animals, plants, and even rocks and wood.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 5,
+            "endIdx": 5,
+            "text": "type",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.00918165816340257
+              },
+              {
+                "enabler": 0.10594419784410603
+              },
+              {
+                "underspecified": 0.0017585839366424105
+              },
+              {
+                "undergoer": 2.1988169623343712E-4
+              },
+              {
+                "trigger": 0.6555471585441237
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "sexual reproduction",
+    "sentences": [
+      {
+        "sentenceId": 31,
+        "text": "sexual reproduction causes new solutions.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 4,
+            "endIdx": 6,
+            "text": "new solutions .",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.858223299549815
+              },
+              {
+                "enabler": 0.03201735154750829
+              },
+              {
+                "underspecified": 0.0037110248644611765
+              },
+              {
+                "undergoer": 0.01154525938412132
+              },
+              {
+                "trigger": 0.0037827210525606114
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "digestion",
+    "sentences": [
+      {
+        "sentenceId": 19,
+        "text": "in a general sense, digestion is the process of pulling apart macromolecules into their constituent parts.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 11,
+            "endIdx": 11,
+            "text": "pulling",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.003548952235998945
+              },
+              {
+                "enabler": 0.00834027762038625
+              },
+              {
+                "underspecified": 0.005988927864999938
+              },
+              {
+                "undergoer": 0.0017801783692132922
+              },
+              {
+                "trigger": 0.9273501879046757
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 11,
+            "endIdx": 17,
+            "text": "pulling apart macromolecules into their constituent parts",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.003548952235998945
+              },
+              {
+                "enabler": 0.00834027762038625
+              },
+              {
+                "underspecified": 0.005988927864999938
+              },
+              {
+                "undergoer": 0.0017801783692132922
+              },
+              {
+                "trigger": 0.9273501879046757
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 64,
+        "text": "digestion is the breaking down of food into forms that our bodies can use.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 4,
+            "endIdx": 4,
+            "text": "breaking",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.026418886410931933
+              },
+              {
+                "enabler": 0.16493256485170216
+              },
+              {
+                "underspecified": 0.003185787361574599
+              },
+              {
+                "undergoer": 0.0032047897512679224
+              },
+              {
+                "trigger": 0.8406785562368575
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 94,
+        "text": "digestion is the process by which chunks of food are broken into molecules small ...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 13,
+            "endIdx": 14,
+            "text": "molecules small",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8367140301941275
+              },
+              {
+                "enabler": 0.05851488573209507
+              },
+              {
+                "underspecified": 0.021952728558526702
+              },
+              {
+                "undergoer": 0.16574227125882413
+              },
+              {
+                "trigger": 0.013655732741064686
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 11,
+            "endIdx": 11,
+            "text": "broken",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.0069364221093105105
+              },
+              {
+                "enabler": 0.00594150665844051
+              },
+              {
+                "underspecified": 0.0029440642373844694
+              },
+              {
+                "undergoer": 0.001949279065722953
+              },
+              {
+                "trigger": 0.9634330447117266
+              }
+            ]
+          },
+          {
+            "argId": 3,
+            "startIdx": 13,
+            "endIdx": 13,
+            "text": "molecules",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8367140301941275
+              },
+              {
+                "enabler": 0.05851488573209507
+              },
+              {
+                "underspecified": 0.021952728558526702
+              },
+              {
+                "undergoer": 0.16574227125882413
+              },
+              {
+                "trigger": 0.013655732741064686
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "condensation",
+    "sentences": [
+      {
+        "sentenceId": 10,
+        "text": "evaporation condensation condensation is the process by which water vapor changes into water.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 71,
+        "text": "condensation helps to create the perfect breeding ground for unhealthy mould spores to grow and flourish with the tell-tale black growth often forming in the...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 4,
+            "endIdx": 25,
+            "text": "create the perfect breeding ground for unhealthy mould spores to grow and flourish with the tell-tale black growth often forming in the",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7989891456737076
+              },
+              {
+                "enabler": 0.005773905847583305
+              },
+              {
+                "underspecified": 0.02765424647910919
+              },
+              {
+                "undergoer": 0.01461864860820783
+              },
+              {
+                "trigger": 0.02051371171761074
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 73,
+        "text": "condensation occurs when moist air hits a cold surface.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 119,
+        "text": "condensation occurs when evaporator coils draw water from...",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "orbit",
+    "sentences": [
+      {
+        "sentenceId": 118,
+        "text": "earth\u0027s orbit is the path in which the earth travels around the sun.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "camouflage",
+    "sentences": [
+      {
+        "sentenceId": 35,
+        "text": "camouflage occurs when all target features are similar to distractor features.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 38,
+        "text": "the purpose of camouflage is to provide concealment of military...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 10,
+            "text": "provide concealment of military",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8953155737582115
+              },
+              {
+                "enabler": 0.009661321118309751
+              },
+              {
+                "underspecified": 0.005717810889831698
+              },
+              {
+                "undergoer": 0.002927467754225588
+              },
+              {
+                "trigger": 0.2994931786754125
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 7,
+            "endIdx": 7,
+            "text": "provide",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8953155737582115
+              },
+              {
+                "enabler": 0.009661321118309751
+              },
+              {
+                "underspecified": 0.005717810889831698
+              },
+              {
+                "undergoer": 0.002927467754225588
+              },
+              {
+                "trigger": 0.2994931786754125
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 87,
+        "text": "camouflage occurs when objects are disguised so they can\u0027t be seen easily.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 128,
+        "text": "this winter camouflage is caused by physiological changes triggered by the shortening day length in autumn.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 16,
+            "text": "physiological changes triggered by the shortening day length in autumn",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.042723185863371
+              },
+              {
+                "enabler": 0.732399735678692
+              },
+              {
+                "underspecified": 0.009101127157707833
+              },
+              {
+                "undergoer": 0.03662904279096646
+              },
+              {
+                "trigger": 0.00693592324629666
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 134,
+        "text": "camouflage occurs when there is a strong similarity in color between background and foreground, so foreground pixels are classified as background.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 14,
+            "text": "a strong similarity in color between background and foreground",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.2088223260045502
+              },
+              {
+                "enabler": 0.672787067235852
+              },
+              {
+                "underspecified": 0.004826412514378431
+              },
+              {
+                "undergoer": 0.11037209344951526
+              },
+              {
+                "trigger": 0.009262118829366117
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "phototropism",
+    "sentences": [
+      {
+        "sentenceId": 11,
+        "text": "positive phototropism causes a plant to grow toward the light source.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 24,
+        "text": "phototropism is caused by the unequal distribution of auxin.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 5,
+            "endIdx": 9,
+            "text": "the unequal distribution of auxin",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.00673339453033853
+              },
+              {
+                "enabler": 0.9631323244859625
+              },
+              {
+                "underspecified": 0.016111587607849143
+              },
+              {
+                "undergoer": 0.021999283323577146
+              },
+              {
+                "trigger": 0.006566988483612923
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 127,
+        "text": "it is generally agreed that phototropism is caused by the.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "metamorphosis",
+    "sentences": [
+      {
+        "sentenceId": 53,
+        "text": "one major concern in shape metamorphosis is the preservation of shape coherence during the transformation.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 91,
+        "text": "the primary hormone involved in metamorphosis is the steroid hormone ecdysone.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "sublimation",
+    "sentences": [
+      {
+        "sentenceId": 81,
+        "text": "sublimation is the phase transition from the solid to the gaseous phase, without passing through an intermediate liquid phase.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 83,
+        "text": "this sublimation is caused by heat produced by energized resistor ele.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 11,
+            "text": "heat produced by energized resistor ele",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.019414521170235
+              },
+              {
+                "enabler": 0.8913534247433432
+              },
+              {
+                "underspecified": 0.03401421694470186
+              },
+              {
+                "undergoer": 0.05256245335647747
+              },
+              {
+                "trigger": 0.015784872820299167
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 114,
+        "text": "sublimation is the process of vaporizing a solid substance and condensing the vapors to again form the solid directly, without passing through an intermediate...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "vaporizing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.013237205754084873
+              },
+              {
+                "enabler": 0.007341908853303769
+              },
+              {
+                "underspecified": 0.005719036214792195
+              },
+              {
+                "undergoer": 0.006495942534278321
+              },
+              {
+                "trigger": 0.8516904811258823
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "dripping",
+    "sentences": [
+      {
+        "sentenceId": 46,
+        "text": "thus, dripping is the process of pouring e-juice directly into the atomizer.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 8,
+            "text": "pouring",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.0031672028001557264
+              },
+              {
+                "enabler": 0.0077077502268698694
+              },
+              {
+                "underspecified": 0.0028736989282026615
+              },
+              {
+                "undergoer": 0.0014800871909641522
+              },
+              {
+                "trigger": 0.8464052594791871
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 69,
+        "text": "dripping - dripping is the process of adding droplets of e-juice to the bridge of an atomizer instead of passing it through a cartridge.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 8,
+            "text": "adding",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.01305068566983048
+              },
+              {
+                "enabler": 0.006861508789678172
+              },
+              {
+                "underspecified": 0.016099274423417964
+              },
+              {
+                "undergoer": 5.17136042397115E-4
+              },
+              {
+                "trigger": 0.9507224456126833
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "absorption",
+    "sentences": [
+      {
+        "sentenceId": 133,
+        "text": "absorption is the process of absorbing a fluid by another fluid to form a fluid solution.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "absorbing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.002353384831303821
+              },
+              {
+                "enabler": 0.004773312765774085
+              },
+              {
+                "underspecified": 0.002529977699553765
+              },
+              {
+                "undergoer": 7.201893771494605E-4
+              },
+              {
+                "trigger": 0.9594527850541434
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "pollination",
+    "sentences": [
+      {
+        "sentenceId": 130,
+        "text": "pollination is the process of moving the pollen grain from the anther of a stamen to the stigma of a carpel.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "moving",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.008486358383233777
+              },
+              {
+                "enabler": 0.006922643343808654
+              },
+              {
+                "underspecified": 0.0032650680282336753
+              },
+              {
+                "undergoer": 6.112630303717337E-4
+              },
+              {
+                "trigger": 0.9716894697654294
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "breathing",
+    "sentences": [
+      {
+        "sentenceId": 26,
+        "text": "breathing is the process by which oxygen in the air is brought into the lungs and into close contact with the blood, which absorbs it and carries it to all parts of the...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 12,
+            "endIdx": 12,
+            "text": "brought",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.0036668329634426205
+              },
+              {
+                "enabler": 0.013830363624467101
+              },
+              {
+                "underspecified": 0.0010991719825583779
+              },
+              {
+                "undergoer": 0.0021786155981309285
+              },
+              {
+                "trigger": 0.9141473872691586
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 79,
+        "text": "just as oxygen is necessary for breathing, music is important to live.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 3,
+            "endIdx": 3,
+            "text": "oxygen",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.0034047203645439085
+              },
+              {
+                "enabler": 0.8027136528752878
+              },
+              {
+                "underspecified": 0.013438922917968998
+              },
+              {
+                "undergoer": 0.044646935612370875
+              },
+              {
+                "trigger": 0.001235874212986543
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 96,
+        "text": "breathing is the process of inhaling air through the nose or mouth.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 9,
+            "endIdx": 12,
+            "text": "the nose or mouth",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.03496896767214293
+              },
+              {
+                "enabler": 0.8068491463338942
+              },
+              {
+                "underspecified": 0.15366753470416694
+              },
+              {
+                "undergoer": 0.05409904980374303
+              },
+              {
+                "trigger": 0.008429764246139948
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 98,
+        "text": "breathing is the process by which air is drawn into the body and waste gases are...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 9,
+            "endIdx": 9,
+            "text": "drawn",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.003101483446911944
+              },
+              {
+                "enabler": 0.013965340511080115
+              },
+              {
+                "underspecified": 0.001226406737982022
+              },
+              {
+                "undergoer": 0.0011752409620171544
+              },
+              {
+                "trigger": 0.8726829289984894
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "deposition",
+    "sentences": [
+      {
+        "sentenceId": 70,
+        "text": "deposition is the process by which a gas transforms into a solid without passing through the liquid stage.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 11,
+            "endIdx": 12,
+            "text": "a solid",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.66607985384769
+              },
+              {
+                "enabler": 0.017104954322745836
+              },
+              {
+                "underspecified": 0.21248698848928493
+              },
+              {
+                "undergoer": 0.15033044040372168
+              },
+              {
+                "trigger": 0.005950298658293107
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 9,
+            "endIdx": 9,
+            "text": "transforms",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.02565201727660072
+              },
+              {
+                "enabler": 0.010634361361796185
+              },
+              {
+                "underspecified": 0.004958829131728293
+              },
+              {
+                "undergoer": 0.0056814381533851765
+              },
+              {
+                "trigger": 0.8566381685686492
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "chemical reaction",
+    "sentences": [
+      {
+        "sentenceId": 60,
+        "text": "the velocity of a chemical reaction is the net result of opposing influences.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "weathering",
+    "sentences": [
+      {
+        "sentenceId": 5,
+        "text": "mechanical weathering breaks rock into fragments, whilst chemical weathering causes the rock to be changed.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 6,
+        "text": "mechanical weathering is the process by which rock is broken into smaller pieces without significant changes in composition.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 12,
+            "endIdx": 13,
+            "text": "smaller pieces",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8333514436999053
+              },
+              {
+                "enabler": 0.0368566149650672
+              },
+              {
+                "underspecified": 0.03638138536547475
+              },
+              {
+                "undergoer": 0.02313912167953458
+              },
+              {
+                "trigger": 0.017569263564662263
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 10,
+            "endIdx": 10,
+            "text": "broken",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.009325368822740038
+              },
+              {
+                "enabler": 0.0071809455361305785
+              },
+              {
+                "underspecified": 0.0010618628093079785
+              },
+              {
+                "undergoer": 0.0024015954349460022
+              },
+              {
+                "trigger": 0.9568629895959885
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 27,
+        "text": "weathering is the name given to process by which rocks are gradually worn away by the action of the weather.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 37,
+        "text": "weathering causes the disintegration of rock near the surface of the earth.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 3,
+            "endIdx": 13,
+            "text": "the disintegration of rock near the surface of the earth .",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.6862170433500191
+              },
+              {
+                "enabler": 0.08545332605501854
+              },
+              {
+                "underspecified": 0.02895471450583542
+              },
+              {
+                "undergoer": 0.0037479173275948297
+              },
+              {
+                "trigger": 0.028241001419641587
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 110,
+        "text": "mechanical weathering is the process of breaking big rocks into little ones.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 9,
+            "text": "big rocks",
+            "roleType": "undergoer",
+            "probRoles": [
+              {
+                "result": 0.11529323420157166
+              },
+              {
+                "enabler": 0.08069813069905873
+              },
+              {
+                "underspecified": 0.0037776755641794058
+              },
+              {
+                "undergoer": 0.7575140453561358
+              },
+              {
+                "trigger": 0.01667464619147374
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 7,
+            "endIdx": 7,
+            "text": "breaking",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.005559486325422649
+              },
+              {
+                "enabler": 0.004259033722626815
+              },
+              {
+                "underspecified": 0.007766842127657325
+              },
+              {
+                "undergoer": 0.005263461676735748
+              },
+              {
+                "trigger": 0.9204054517814045
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 116,
+        "text": "for establishing a trusting relationship which is necessary for weathering the.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 131,
+        "text": "mechanical weathering is the process by which rocks are broken into smaller...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 12,
+            "endIdx": 12,
+            "text": "smaller",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7486339267020518
+              },
+              {
+                "enabler": 0.01901048791805926
+              },
+              {
+                "underspecified": 0.13286007102838204
+              },
+              {
+                "undergoer": 0.30601797298242717
+              },
+              {
+                "trigger": 0.05013071034330918
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 10,
+            "endIdx": 10,
+            "text": "broken",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.007092007913367724
+              },
+              {
+                "enabler": 0.00558922324244171
+              },
+              {
+                "underspecified": 0.0028548871052725966
+              },
+              {
+                "undergoer": 0.0035250153561359188
+              },
+              {
+                "trigger": 0.955670179196584
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "evolution",
+    "sentences": [
+      {
+        "sentenceId": 95,
+        "text": "students should have the understanding that evolution is the process by which life progresses from one form into another.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 14,
+            "endIdx": 14,
+            "text": "progresses",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.010129049782223636
+              },
+              {
+                "enabler": 0.010417409622930918
+              },
+              {
+                "underspecified": 0.0037633036420238186
+              },
+              {
+                "undergoer": 0.0048186805014733824
+              },
+              {
+                "trigger": 0.7938277503471249
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "hibernation",
+    "sentences": [
+      {
+        "sentenceId": 29,
+        "text": "hibernation occurs when an animal needs to conserve energy to get through the food-scare months of winter.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "mitosis",
+    "sentences": [
+      {
+        "sentenceId": 4,
+        "text": "for the purposes of reproduction, mitosis helps to produce two organisms of the same species.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 10,
+            "endIdx": 16,
+            "text": "produce two organisms of the same species",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8997540089149062
+              },
+              {
+                "enabler": 0.001466359409695972
+              },
+              {
+                "underspecified": 0.06777805051312691
+              },
+              {
+                "undergoer": 0.016402740904327584
+              },
+              {
+                "trigger": 0.04674095171338977
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 20,
+        "text": "the purpose of mitosis is to provide each daughter cell resulting from a cell division with a set of chromosomes identical to that of the original cell.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 27,
+            "text": "provide each daughter cell resulting from a cell division with a set of chromosomes identical to that of the original cell",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8988874818563565
+              },
+              {
+                "enabler": 0.008742353177056073
+              },
+              {
+                "underspecified": 0.003943187365329948
+              },
+              {
+                "undergoer": 0.00604298751302168
+              },
+              {
+                "trigger": 0.40793582867427824
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 40,
+        "text": "mitosis is the process of segregating equal complements of the replicated genome to daughter cells before...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "segregating",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.016150317995847912
+              },
+              {
+                "enabler": 0.0038423566433986034
+              },
+              {
+                "underspecified": 0.007566626198847515
+              },
+              {
+                "undergoer": 0.0013216283464327905
+              },
+              {
+                "trigger": 0.903485607666191
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 43,
+        "text": "the purpose of mitosis is to produce two daughter cells, each containing a complete set ...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 16,
+            "text": "produce two daughter cells , each containing a complete set",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8943814394779347
+              },
+              {
+                "enabler": 0.0074821393654480595
+              },
+              {
+                "underspecified": 0.008687800312709992
+              },
+              {
+                "undergoer": 0.0064805246776041825
+              },
+              {
+                "trigger": 0.4611138881757125
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 80,
+        "text": "mitosis is the process by which a single cell divides into two daughter cells.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 12,
+            "endIdx": 14,
+            "text": "two daughter cells",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7267649078115168
+              },
+              {
+                "enabler": 0.010643333112400954
+              },
+              {
+                "underspecified": 0.04620140246332338
+              },
+              {
+                "undergoer": 0.07257445602938861
+              },
+              {
+                "trigger": 0.04249697011284459
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 7,
+            "endIdx": 9,
+            "text": "a single cell",
+            "roleType": "undergoer",
+            "probRoles": [
+              {
+                "result": 0.16904007052348757
+              },
+              {
+                "enabler": 0.0487770603138471
+              },
+              {
+                "underspecified": 0.008732744557194971
+              },
+              {
+                "undergoer": 0.818874127840866
+              },
+              {
+                "trigger": 0.003871412010344355
+              }
+            ]
+          },
+          {
+            "argId": 3,
+            "startIdx": 10,
+            "endIdx": 10,
+            "text": "divides",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.029390789928748204
+              },
+              {
+                "enabler": 0.008592122624827558
+              },
+              {
+                "underspecified": 0.0029487736532239905
+              },
+              {
+                "undergoer": 0.011788379566692875
+              },
+              {
+                "trigger": 0.8797448448455464
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 106,
+        "text": "mitosis is the standard, ho-hum way that cells divide.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 120,
+        "text": "mitosis is the process of dividing chromosomes during cell division in eukaryotic cells .",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "dividing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.012531732913315495
+              },
+              {
+                "enabler": 0.005020360046058103
+              },
+              {
+                "underspecified": 0.007180675110556867
+              },
+              {
+                "undergoer": 0.0025497464608356113
+              },
+              {
+                "trigger": 0.9088724680708092
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "germination",
+    "sentences": [
+      {
+        "sentenceId": 1,
+        "text": "germination occurs when the water content reaches about 60% of the imbibed seed weight.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 65,
+        "text": "germination is the process of allowing the steeped grain to grow for a period of time under controlled conditions.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "allowing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.005541468321333271
+              },
+              {
+                "enabler": 0.004821133985787096
+              },
+              {
+                "underspecified": 0.0038250363531805442
+              },
+              {
+                "undergoer": 0.001658355679330037
+              },
+              {
+                "trigger": 0.5029114575181975
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 72,
+        "text": "keep them in a dark area unless the seed packet indicates light is necessary for germination.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 12,
+            "endIdx": 12,
+            "text": "light",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.0054724268649386535
+              },
+              {
+                "enabler": 0.8762498955845105
+              },
+              {
+                "underspecified": 0.009306606440995457
+              },
+              {
+                "undergoer": 0.038697801939346466
+              },
+              {
+                "trigger": 8.243566289700688E-4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 78,
+        "text": "seed germination depends on factors such as soil moisture content, the way seed makes contact with soil particles, the level of soil surface coverage by plant.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 10,
+            "text": "soil moisture content",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.1317663306318273
+              },
+              {
+                "enabler": 0.5418056414288018
+              },
+              {
+                "underspecified": 0.038280542329234724
+              },
+              {
+                "undergoer": 0.02517511576964626
+              },
+              {
+                "trigger": 0.01927619963123106
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 90,
+        "text": "seed dormancy is a type of latency in which absence of germination is caused by obstacles in the seed itself.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 16,
+            "endIdx": 20,
+            "text": "obstacles in the seed itself",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.061768842333521826
+              },
+              {
+                "enabler": 0.6363319181825187
+              },
+              {
+                "underspecified": 0.015194668332093153
+              },
+              {
+                "undergoer": 0.00516539729494736
+              },
+              {
+                "trigger": 0.009993441236667233
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "conservation",
+    "sentences": [
+      {
+        "sentenceId": 22,
+        "text": "conservation is the process of reducing demand on a limited supply and enabling that supply to begin to rebuild itself.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "reducing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.018691567447571736
+              },
+              {
+                "enabler": 0.013545215809443789
+              },
+              {
+                "underspecified": 0.005068787218917348
+              },
+              {
+                "undergoer": 0.004377879025160736
+              },
+              {
+                "trigger": 0.8953820110185087
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "boiling",
+    "sentences": [
+      {
+        "sentenceId": 15,
+        "text": "boiling is the method of cooking food in boiling water, or other water-based liquids such as stock or milk.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 4,
+            "endIdx": 4,
+            "text": "method",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.02676151594762248
+              },
+              {
+                "enabler": 0.1083633592442711
+              },
+              {
+                "underspecified": 0.003419586357426896
+              },
+              {
+                "undergoer": 1.92396784828186E-4
+              },
+              {
+                "trigger": 0.8157334774414707
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 42,
+        "text": "this boiling causes the air inside to be forced out and replaced with hot water vapor.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 4,
+            "endIdx": 6,
+            "text": "the air inside",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.6269748716534028
+              },
+              {
+                "enabler": 0.07014937583042558
+              },
+              {
+                "underspecified": 0.03090419784133025
+              },
+              {
+                "undergoer": 0.00982998776550481
+              },
+              {
+                "trigger": 0.008564803501799223
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 44,
+        "text": "i personally believe the boiling helps to release, or breakdown some of the nutrients in the mix.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 8,
+            "text": "release",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7705033739138673
+              },
+              {
+                "enabler": 0.004724626485540284
+              },
+              {
+                "underspecified": 0.06843767958032965
+              },
+              {
+                "undergoer": 0.0185880772577921
+              },
+              {
+                "trigger": 0.021169132459682438
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 47,
+        "text": "boiling is the process of applying heat to water until the temperature reaches about 100c.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "applying",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.023696299250755143
+              },
+              {
+                "enabler": 0.003213907711305586
+              },
+              {
+                "underspecified": 0.0035348032618244263
+              },
+              {
+                "undergoer": 7.85175360646817E-4
+              },
+              {
+                "trigger": 0.9505148028576058
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 93,
+        "text": "this appears to be a paradox (possibly a catch-22): boiling is the release of bubbles of vapour, but bubbles of vapour can never form.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 16,
+            "endIdx": 16,
+            "text": "release",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.04784433078094333
+              },
+              {
+                "enabler": 0.21149587267141767
+              },
+              {
+                "underspecified": 0.003479415654177642
+              },
+              {
+                "undergoer": 3.4427508593692924E-4
+              },
+              {
+                "trigger": 0.6820759973582261
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "combustion",
+    "sentences": [
+      {
+        "sentenceId": 7,
+        "text": "combustion is the conversion of a substance called a fuel into chemical compounds known as products of combustion by combination with an oxidizer.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 14,
+        "text": "combustion is the conversion of primary chemical...",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 25,
+        "text": "the primary case of ethanol combustion is the burning of ethanol in a car\u0027s engine.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 33,
+        "text": "the purpose of combustion is to rotate the rotor around the chamber.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 12,
+            "text": "rotate the rotor around the chamber",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7620079635063398
+              },
+              {
+                "enabler": 0.009544705269026399
+              },
+              {
+                "underspecified": 0.003441980004398215
+              },
+              {
+                "undergoer": 0.002840718461735947
+              },
+              {
+                "trigger": 0.2503158974804789
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 36,
+        "text": "the purpose of combustion is to efficiently consume fuel to produce heat.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 12,
+            "text": "consume fuel to produce heat",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.6634207328961595
+              },
+              {
+                "enabler": 0.007079948152856064
+              },
+              {
+                "underspecified": 0.010584678642840739
+              },
+              {
+                "undergoer": 0.01019769868466569
+              },
+              {
+                "trigger": 0.09484774305464316
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 49,
+        "text": "combustion is caused by the water used in fire suppression.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 5,
+            "endIdx": 10,
+            "text": "the water used in fire suppression",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 5.361276552681824E-4
+              },
+              {
+                "enabler": 0.5439522494979883
+              },
+              {
+                "underspecified": 0.013112848427794921
+              },
+              {
+                "undergoer": 0.7155717070246779
+              },
+              {
+                "trigger": 2.394973797253952E-4
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 66,
+        "text": "combustion is caused by exothermic chemical reactions and may be accompanied by a flame.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 5,
+            "endIdx": 7,
+            "text": "exothermic chemical reactions",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.018038434050922664
+              },
+              {
+                "enabler": 0.6149721856628079
+              },
+              {
+                "underspecified": 0.0015327813216181596
+              },
+              {
+                "undergoer": 0.06512155430940847
+              },
+              {
+                "trigger": 0.006343153065304419
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 67,
+        "text": "combustion is the reaction of substances with oxygen, with the evolution of heat and light.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 75,
+        "text": "the poor combustion is caused by oil pressure change.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 9,
+            "text": "oil pressure change",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.008165196332052982
+              },
+              {
+                "enabler": 0.7769903472175863
+              },
+              {
+                "underspecified": 0.012221343120277228
+              },
+              {
+                "undergoer": 0.07332447300706513
+              },
+              {
+                "trigger": 0.026109508258504666
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 77,
+        "text": "the configuration of multistage combustion helps to save energy.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 9,
+            "text": "save energy",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.6749114927272358
+              },
+              {
+                "enabler": 0.002540118722913709
+              },
+              {
+                "underspecified": 0.015609110037302254
+              },
+              {
+                "undergoer": 0.007034502720561053
+              },
+              {
+                "trigger": 0.01794267704185637
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 88,
+        "text": "the rate of combustion is the amount of a material that undergoes combustion over a period of time.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 100,
+        "text": "spontaneous coal combustion is caused by oxidation of both coal and sulphide minerals within it.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 15,
+            "text": "oxidation of both coal and sulphide minerals within it",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.017755213404566348
+              },
+              {
+                "enabler": 0.8653276597624535
+              },
+              {
+                "underspecified": 0.029772691604355916
+              },
+              {
+                "undergoer": 0.011551150310310399
+              },
+              {
+                "trigger": 0.014019039526597887
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 103,
+        "text": "oxy combustion is the process of burning a fuel using pure oxygen instead of air as the primary oxidant.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 9,
+            "text": "a fuel",
+            "roleType": "undergoer",
+            "probRoles": [
+              {
+                "result": 0.006613548728934567
+              },
+              {
+                "enabler": 0.00710237952020365
+              },
+              {
+                "underspecified": 0.008704306620662683
+              },
+              {
+                "undergoer": 0.8187577386365057
+              },
+              {
+                "trigger": 3.1337240941342603E-4
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 7,
+            "endIdx": 7,
+            "text": "burning",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.006771481435505408
+              },
+              {
+                "enabler": 0.007095658398606375
+              },
+              {
+                "underspecified": 0.004129861377398125
+              },
+              {
+                "undergoer": 0.0026407568000221815
+              },
+              {
+                "trigger": 0.7254387269876776
+              }
+            ]
+          },
+          {
+            "argId": 3,
+            "startIdx": 7,
+            "endIdx": 19,
+            "text": "burning a fuel using pure oxygen instead of air as the primary oxidant",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.006771481435505408
+              },
+              {
+                "enabler": 0.007095658398606375
+              },
+              {
+                "underspecified": 0.004129861377398125
+              },
+              {
+                "undergoer": 0.0026407568000221815
+              },
+              {
+                "trigger": 0.7254387269876776
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "chemical change",
+    "sentences": [
+      {
+        "sentenceId": 45,
+        "text": "monitoring ocean chemical change is the promise of mounting chemical sensors on self-reporting ocean floats and gliders.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 85,
+        "text": "the initiating event for chemical change is the cysl46 sulfur (sy\") nucleophilic attack on c6 of the nucleotide pyrimidine ring.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 101,
+        "text": "a chemical change is the process of demonstrating a chemical property, such as the burning match in figure 1",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 8,
+            "text": "demonstrating",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.01808384630636048
+              },
+              {
+                "enabler": 0.004833587100322223
+              },
+              {
+                "underspecified": 0.006535665378854305
+              },
+              {
+                "undergoer": 0.0035463199774180554
+              },
+              {
+                "trigger": 0.9000680718687
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 8,
+            "endIdx": 8,
+            "text": "demonstrating",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.01808384630636048
+              },
+              {
+                "enabler": 0.004833587100322223
+              },
+              {
+                "underspecified": 0.006535665378854305
+              },
+              {
+                "undergoer": 0.0035463199774180554
+              },
+              {
+                "trigger": 0.9000680718687
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 122,
+        "text": "evidence of a chemical change is the appearance of floc during the stirring process.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "crop rotation",
+    "sentences": [
+      {
+        "sentenceId": 59,
+        "text": "the purpose of crop rotation is to help maintain the balance of nutrients, organic matter, and microorganisms necessary for healthy soil.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 8,
+            "endIdx": 8,
+            "text": "help",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7453794098902573
+              },
+              {
+                "enabler": 0.011803556216545052
+              },
+              {
+                "underspecified": 0.011754194808556773
+              },
+              {
+                "undergoer": 0.004293579041112272
+              },
+              {
+                "trigger": 0.0808880487606819
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 92,
+        "text": "crop rotation helps to replenish the soil with vital nutrients.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 5,
+            "endIdx": 10,
+            "text": "replenish the soil with vital nutrients",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7308308302530346
+              },
+              {
+                "enabler": 0.0036105041603609056
+              },
+              {
+                "underspecified": 0.023432572043971645
+              },
+              {
+                "undergoer": 0.0019508720292081838
+              },
+              {
+                "trigger": 0.01769196225436942
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 4,
+            "endIdx": 10,
+            "text": "to replenish the soil with vital nutrients",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7308308302530346
+              },
+              {
+                "enabler": 0.0036105041603609056
+              },
+              {
+                "underspecified": 0.023432572043971645
+              },
+              {
+                "undergoer": 0.0019508720292081838
+              },
+              {
+                "trigger": 0.01769196225436942
+              }
+            ]
+          },
+          {
+            "argId": 3,
+            "startIdx": 5,
+            "endIdx": 5,
+            "text": "replenish",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7308308302530346
+              },
+              {
+                "enabler": 0.0036105041603609056
+              },
+              {
+                "underspecified": 0.023432572043971645
+              },
+              {
+                "undergoer": 0.0019508720292081838
+              },
+              {
+                "trigger": 0.01769196225436942
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "erosion",
+    "sentences": [
+      {
+        "sentenceId": 111,
+        "text": "erosion is the process of wearing down an object by various forces.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 7,
+            "text": "wearing down",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.008165418367382134
+              },
+              {
+                "enabler": 0.005149977102520853
+              },
+              {
+                "underspecified": 0.0031397820861926995
+              },
+              {
+                "undergoer": 0.001014829600428535
+              },
+              {
+                "trigger": 0.9129083292528627
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "process": "evaporation",
+    "sentences": [
+      {
+        "sentenceId": 16,
+        "text": "the purpose of evaporation is to remove water...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 8,
+            "text": "remove water",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.9219292510608585
+              },
+              {
+                "enabler": 0.007246501449738041
+              },
+              {
+                "underspecified": 0.002263848635895016
+              },
+              {
+                "undergoer": 0.007371483124507527
+              },
+              {
+                "trigger": 0.24270860156668483
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 28,
+        "text": "evaporation helps to remove small trapped water bodies.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 4,
+            "endIdx": 8,
+            "text": "remove small trapped water bodies",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.9269412297211054
+              },
+              {
+                "enabler": 0.0014820978248000216
+              },
+              {
+                "underspecified": 0.04559947676650156
+              },
+              {
+                "undergoer": 0.031620856553331356
+              },
+              {
+                "trigger": 0.023223258924614187
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 32,
+        "text": "evaporation is the process by which a liquid is changed into a vapor.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 12,
+            "endIdx": 13,
+            "text": "a vapor",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8729651176866964
+              },
+              {
+                "enabler": 0.03695835679651638
+              },
+              {
+                "underspecified": 0.17365564071493245
+              },
+              {
+                "undergoer": 0.08899578724614399
+              },
+              {
+                "trigger": 0.006652998030840518
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 10,
+            "endIdx": 10,
+            "text": "changed",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.008421592733996551
+              },
+              {
+                "enabler": 0.003642153156410366
+              },
+              {
+                "underspecified": 5.081373516486742E-4
+              },
+              {
+                "undergoer": 0.004182799271343907
+              },
+              {
+                "trigger": 0.9270614520071301
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 34,
+        "text": "the depletion of liquid by evaporation causes the vapor-liquid interface in the evaporator to retreat into the wick surface where the typical meniscus has a radius...",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 48,
+        "text": "evaporation is the primary pathway that water moves from...",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 51,
+        "text": "evaporation is the process by which liquids gradually turn into gases over time.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 11,
+            "endIdx": 11,
+            "text": "gases",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.8983251469493431
+              },
+              {
+                "enabler": 0.09920097411653217
+              },
+              {
+                "underspecified": 0.037166247105320904
+              },
+              {
+                "undergoer": 0.09354870209377675
+              },
+              {
+                "trigger": 0.014479240339986044
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 7,
+            "endIdx": 7,
+            "text": "liquids",
+            "roleType": "undergoer",
+            "probRoles": [
+              {
+                "result": 0.047509957923987434
+              },
+              {
+                "enabler": 0.006399745155619252
+              },
+              {
+                "underspecified": 0.01343772893800399
+              },
+              {
+                "undergoer": 0.7459864727727777
+              },
+              {
+                "trigger": 0.011315233858888551
+              }
+            ]
+          },
+          {
+            "argId": 3,
+            "startIdx": 9,
+            "endIdx": 9,
+            "text": "turn",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.01052331402298326
+              },
+              {
+                "enabler": 0.017692899667626327
+              },
+              {
+                "underspecified": 0.0036051669039660617
+              },
+              {
+                "undergoer": 0.017737977827742113
+              },
+              {
+                "trigger": 0.9230823473702449
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 54,
+        "text": "it does its job by using basic forces of nature, a minimum of added energy, and the principles that evaporation causes cooling and that water wants to absorb...",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 24,
+            "endIdx": 30,
+            "text": "cooling and that water wants to absorb",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.7711876332014179
+              },
+              {
+                "enabler": 0.030081177301368833
+              },
+              {
+                "underspecified": 0.011701459269304104
+              },
+              {
+                "undergoer": 0.08933645926357336
+              },
+              {
+                "trigger": 0.01737368624914637
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 63,
+        "text": "evaporation occurs when the number of water molecules passing to the vapour state exceeds the number joining the liquid state.",
+        "argumentSpan": []
+      },
+      {
+        "sentenceId": 89,
+        "text": "evaporation is the process of changing liquid water into water vapor (a gas).",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 8,
+            "text": "liquid water",
+            "roleType": "undergoer",
+            "probRoles": [
+              {
+                "result": 0.10181952541315172
+              },
+              {
+                "enabler": 0.035101034195240244
+              },
+              {
+                "underspecified": 0.001826133096247684
+              },
+              {
+                "undergoer": 0.6873160017470683
+              },
+              {
+                "trigger": 0.00690735553315136
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "changing",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.008086446280787514
+              },
+              {
+                "enabler": 0.003381078838241569
+              },
+              {
+                "underspecified": 0.0015224147982729752
+              },
+              {
+                "undergoer": 0.0049710338394542974
+              },
+              {
+                "trigger": 0.8508310142771894
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 108,
+        "text": "evaporation is the process of losing heat through the conversion of water to gas.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 9,
+            "endIdx": 14,
+            "text": "the conversion of water to gas",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.0947175163699296
+              },
+              {
+                "enabler": 0.5291049260189857
+              },
+              {
+                "underspecified": 0.16658917076268065
+              },
+              {
+                "undergoer": 0.020659184262169505
+              },
+              {
+                "trigger": 0.0518571953186403
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 113,
+        "text": "evaporation is the process of converting water from liquid to gaseous phase.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 7,
+            "endIdx": 7,
+            "text": "water",
+            "roleType": "undergoer",
+            "probRoles": [
+              {
+                "result": 0.06292535333823186
+              },
+              {
+                "enabler": 0.02812904628086399
+              },
+              {
+                "underspecified": 0.009534777673842254
+              },
+              {
+                "undergoer": 0.6993609110088183
+              },
+              {
+                "trigger": 0.01730766288872765
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "converting",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.011603167155718878
+              },
+              {
+                "enabler": 0.0027181405510068313
+              },
+              {
+                "underspecified": 0.0015260336103459782
+              },
+              {
+                "undergoer": 0.0014013628705678016
+              },
+              {
+                "trigger": 0.9516533912510441
+              }
+            ]
+          },
+          {
+            "argId": 3,
+            "startIdx": 6,
+            "endIdx": 12,
+            "text": "converting water from liquid to gaseous phase",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.011603167155718878
+              },
+              {
+                "enabler": 0.0027181405510068313
+              },
+              {
+                "underspecified": 0.0015260336103459782
+              },
+              {
+                "undergoer": 0.0014013628705678016
+              },
+              {
+                "trigger": 0.9516533912510441
+              }
+            ]
+          },
+          {
+            "argId": 4,
+            "startIdx": 7,
+            "endIdx": 9,
+            "text": "water from liquid",
+            "roleType": "undergoer",
+            "probRoles": [
+              {
+                "result": 0.06292535333823186
+              },
+              {
+                "enabler": 0.02812904628086399
+              },
+              {
+                "underspecified": 0.009534777673842254
+              },
+              {
+                "undergoer": 0.6993609110088183
+              },
+              {
+                "trigger": 0.01730766288872765
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 117,
+        "text": "the evaporation is caused by a transfer of heat from the air to the water.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 15,
+            "text": "a transfer of heat from the air to the water",
+            "roleType": "enabler",
+            "probRoles": [
+              {
+                "result": 0.03922941777514446
+              },
+              {
+                "enabler": 0.7516441625056847
+              },
+              {
+                "underspecified": 0.04103871072376675
+              },
+              {
+                "undergoer": 0.04358009730933865
+              },
+              {
+                "trigger": 0.07390866343444835
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 126,
+        "text": "evaporation is the name given to the process in which a liquid is converted to the gaseous state.",
+        "argumentSpan": []
+      }
+    ]
+  },
+  {
+    "process": "reproduction",
+    "sentences": [
+      {
+        "sentenceId": 74,
+        "text": "reproduction is the process of generating offspring.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "generating",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.010401877662314193
+              },
+              {
+                "enabler": 0.0048060892184262904
+              },
+              {
+                "underspecified": 0.006235169229890425
+              },
+              {
+                "undergoer": 0.003821770427028248
+              },
+              {
+                "trigger": 0.7276831890382962
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "sentenceId": 121,
+        "text": "reproduction is the process of making offspring.",
+        "argumentSpan": [
+          {
+            "argId": 1,
+            "startIdx": 6,
+            "endIdx": 6,
+            "text": "making",
+            "roleType": "trigger",
+            "probRoles": [
+              {
+                "result": 0.006388236747183549
+              },
+              {
+                "enabler": 0.004775043444321225
+              },
+              {
+                "underspecified": 0.0062116816470049185
+              },
+              {
+                "undergoer": 0.0038118180270501067
+              },
+              {
+                "trigger": 0.8019669013870355
+              }
+            ]
+          },
+          {
+            "argId": 2,
+            "startIdx": 7,
+            "endIdx": 7,
+            "text": "offspring",
+            "roleType": "result",
+            "probRoles": [
+              {
+                "result": 0.5674513961938437
+              },
+              {
+                "enabler": 0.041235296525030884
+              },
+              {
+                "underspecified": 0.01327800024437098
+              },
+              {
+                "undergoer": 0.054856821310179216
+              },
+              {
+                "trigger": 0.012496991712591443
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
